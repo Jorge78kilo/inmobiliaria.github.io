@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{margin:0px;
+  padding: 0px;
+  border:0px;}
+
+#centro{width: 1000px;
+        height: auto;
+        margin: auto;
+        border:solid 3px black;}
+
+.textos{
+    width: 600px;
+    margin-right: 10px;
+    margin-top: 30px;
+	float: right;
+}
+
+.textos p{text-align:justify;
+          font-family:"Open Sans", sans-serif;
+          font-size:16px;
+          line-height:20px;}
+          
+
+
+#accordion h3{font-family:"Open Sans", sans-serif;
+              font-size: 25px;
+              color:antiquewhite;
+              font-weight: 800;}  
+
+#tabs{margin-top: 30px;
+}
+
+#tabs-1, #tabs-2, #tabs-3{background-color:rgba(123,229,97,1.00);}
+
+#tabs li{font-size: 30px;
+         font-weight: 800;}
+
+#tabs li:hover{}
+
+#encabezado{height: 400px;}
+
+
+
+
+
